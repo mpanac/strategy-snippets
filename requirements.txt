@@ -1,0 +1,8 @@
+pandas
+python-binance
+tqdm
+numpy
+numba
+matplotlib
+vectorbt
+plotly
