@@ -6,3 +6,4 @@ numba
 matplotlib
 vectorbt
 plotly
+ccxt
