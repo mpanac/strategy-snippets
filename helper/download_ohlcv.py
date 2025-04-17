@@ -76,7 +76,7 @@ def fetch_ohlcv_data(symbol, timeframe='1m', start_date=None, market_type='spot'
     return df
 
 if __name__ == "__main__":
-    symbol = "BTC/USDT"
+    symbol = "SOL/USDT"
     start_date = "2020-01-01 00:00:00"
     market_type = input("Enter market type (spot/futures): ").lower()
     
